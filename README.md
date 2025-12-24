@@ -1,5 +1,5 @@
 # rcrd-app
-Small bash script to automate the deletion of files from the downloads folder of configured workstations
+Small bash script to automate the deletion of files from the downloads folder of configured workstations. Workstations are by default considered MacOS, as that was a requirement for the project.
 ---
 - Project created to assist with a work project. 
 - addss.sh and delss.sh are used to create workstations that rcrd.sh will use. 
